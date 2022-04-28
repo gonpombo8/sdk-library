@@ -8,5 +8,5 @@
 
 |  Package | Description |
 |  --- | --- |
-|  [sdk-test](./sdk-test.md) |  |
+|  [sdk-example-gon](./sdk-example-gon.md) |  |
 
