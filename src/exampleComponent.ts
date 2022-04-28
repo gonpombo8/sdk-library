@@ -1,5 +1,3 @@
-// @ts-ignore
-console.log(Component)
 /**
  * @public
  * @returns Some example component
